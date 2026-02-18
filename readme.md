@@ -44,7 +44,6 @@ ln -s "$PWD/ai-engineer" .agent/skills/ai-engineer
 
 ## Troubleshooting ⚠️
 - No skill detected: confirm the folder is exactly `.agent/skills` and permissions allow reading.
-- Still not found: restart the agent or consult agent logs.
 
 ## Contributing
 - Add a `README.md` inside each skill folder describing purpose and usage.
