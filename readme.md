@@ -50,5 +50,3 @@ ln -s "$PWD/ai-engineer" .agent/skills/ai-engineer
 - Add a `README.md` inside each skill folder describing purpose and usage.
 
 ---
-
-If you want, I can add a `CONTRIBUTING.md` or example `manifest.json` for a skill—tell me which skill to document.
