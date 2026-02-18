@@ -42,8 +42,6 @@ ln -s "$PWD/ai-engineer" .agent/skills/ai-engineer
 
 > Note: how skills are loaded (auto-reload vs restart) depends on your agent runtime—check its docs.
 
-## Troubleshooting ⚠️
-
 ## Contributing
 - Add a `README.md` inside each skill folder describing purpose and usage.
 
